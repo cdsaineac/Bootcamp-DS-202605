@@ -1,1 +1,6 @@
-# Bootcamp-DS-202605
+# Bootcamp-DS-202604
+Repositorio para el desarrollo del Bootcamp DataScience de BIT. Cohorte 202604
+
+- Canal de Discord: https://discord.gg/CmtWGAvaV
+- Calendario de clases e información general del curso: https://bootcampdatascience.lovable.app/
+- Playlist Youtube: https://www.youtube.com/playlist?list=PLpD_vYWjZt10RcN-VDb2Ib9Sqp4EIo7LY
