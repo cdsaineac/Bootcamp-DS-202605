@@ -1,0 +1,21 @@
+ID_Venta,Videojuego,Plataforma,Region,Precio_Unitario,Unidades_Vendidas
+1,Soccer Stars 2026,PS5,Latinoamerica,60,25
+2,CyberQuest,Xbox,Norteamerica,50,12
+3,Galactic Combat,PC,Europa,40,45
+4,Race King,Nintendo Switch,Asia,30,8
+5,Fantasy RPG,PS5,Latinoamerica,70,30
+6,Soccer Stars 2026,Xbox,Europa,60,15
+7,CyberQuest,PC,Latinoamerica,50,5
+8,Galactic Combat,Nintendo Switch,Norteamerica,40,22
+9,Race King,PS5,Asia,30,18
+10,Fantasy RPG,Xbox,Latinoamerica,70,40
+11,Soccer Stars 2026,PC,Norteamerica,60,14
+12,CyberQuest,Nintendo Switch,Latinoamerica,50,2
+13,Galactic Combat,PS5,Europa,40,50
+14,Race King,Xbox,Asia,30,10
+15,Fantasy RPG,PC,Latinoamerica,70,35
+16,Soccer Stars 2026,Nintendo Switch,Norteamerica,60,9
+17,CyberQuest,PS5,Latinoamerica,50,28
+18,Galactic Combat,Xbox,Europa,40,11
+19,Race King,PC,Asia,30,4
+20,Fantasy RPG,Nintendo Switch,Latinoamerica,70,15
