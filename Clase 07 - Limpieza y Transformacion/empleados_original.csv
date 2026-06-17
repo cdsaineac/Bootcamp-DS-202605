@@ -1,0 +1,10 @@
+id_empleado,nombre_completo,departamento,fecha_ingreso,salario,email,edad,vehiculo_asignado
+1001, Carlos Ruiz ,Ventas,15/03/2021,"$ 45,000",cruiz@empresa.com,34,Toyota Corolla
+1002,Ana Gomez,IT,2022-08-10,52000 USD,agomez@empresa.com,28,NaN
+1003,Luis fernandez ,Recursos Humanos,05-12-2020,48000.50,lfernandez@empresa.com,,Honda Civic
+1004,Marta Lopez,Vntas,11/20/2023,Desconocido,marta.l@empresa,41,Nissan Sentra
+1002,Ana Gomez,IT,2022-08-10,52000 USD,agomez@empresa.com,28,NaN
+1005,Jorge Perez,Tecnologia,2019/01/15,"$60,000.00",jperez_empresa.com,999,Ford Focus
+1006,  Elena Martinez,Marketing,15-Mar-2022,-50000,emartinez@empresa.com,32,
+1007,Sofia Castro,IT,2023-01-05,55000,scastro@empresa.com,veinticinco,Chevrolet Spark
+1008,Pedro Ramirez,Ventas,NaT,47500,pramirez@empresa.com,30,Toyota Corolla
