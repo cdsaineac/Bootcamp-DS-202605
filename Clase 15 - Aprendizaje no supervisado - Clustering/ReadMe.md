@@ -1,6 +1,6 @@
 # Taller 04 - [Reducción de Dimensiones y Clustering con Spotify](https://github.com/cdsaineac/Bootcamp-DS-202604/blob/master/Clase%2014%20-%20Aprendizaje%20no%20supervisado%20-%20Clustering/Actividad_Spotify_Clustering.ipynb)
 
-**Fecha de entrega:** *Junio 15*
+**Fecha de entrega:** *Septiembre 15*
 
 @everyone
 
