@@ -1,4 +1,4 @@
-# Taller 05 - Aprendizaje Supervisado: Clasificación o Regresión
+# Taller 06 - Aprendizaje Supervisado: Clasificación o Regresión
 
 @everyone 
 
